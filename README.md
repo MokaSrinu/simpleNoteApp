@@ -1,6 +1,9 @@
 # simpleNoteApp
 It is a simple note Making app.It was individual project just completed in 1hour.The tech stacks that used are HTML,CSS and JS
 
+# Landing page
+<img src="./Screenshot (12399).png" />
+
 ## Features:<br />
 1)you can make some note that will be stored in your browsers local storage.<br />
 2)you can simply create one just by click add note button ,an empty note box will be created for you.<br />
